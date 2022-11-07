@@ -1,2 +1,7 @@
+
 # How to Resolve Git Merge Conflict
 <p> Autor es Eduardo </p>
+
+# How to Resolve Git Merge Conflict"
+<h2> El autor es Eutiquio</h2>
+
