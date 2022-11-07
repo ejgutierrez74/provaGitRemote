@@ -1,0 +1,2 @@
+# How to Resolve Git Merge Conflict
+<p> Autor es Eduardo </p>
